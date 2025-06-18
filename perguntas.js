@@ -27,3 +27,9 @@ criaCartao(
     'Qual é o maior país do mundo em área territorial e em qual continente ele está localizado?',
     'Rússia'
 )
+
+criaCartao(
+    'Geografia',
+    'Quais são os 6 continentes ?',
+    'África, América, Antártida, Ásia, Europa e Oceania'
+)
