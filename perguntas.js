@@ -17,19 +17,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geografia',
+    'Qual é o ponto mais profundo dos oceanos e em qual oceano ele está localizado?',
+    'É a Fossa das Marianas'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geoegrafia',
+    'Qual é o rio mais longo do mundo e qual continente ele atravessa predominantemente?',
+    'Rio Nilo'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geografia',
+    'Qual é o maior país do mundo em área territorial e em qual continente ele está localizado?',
+    'Rússia'
 )
