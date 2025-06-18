@@ -23,12 +23,6 @@ criaCartao(
 )
 
 criaCartao(
-    'Geoegrafia',
-    'Qual é o rio mais longo do mundo e qual continente ele atravessa predominantemente?',
-    'Rio Nilo'
-)
-
-criaCartao(
     'Geografia',
     'Qual é o maior país do mundo em área territorial e em qual continente ele está localizado?',
     'Rússia'
