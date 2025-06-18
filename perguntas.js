@@ -31,5 +31,5 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Quais são os 6 continentes ?',
-    'África, América, Antártida, Ásia, Europa e Oceania'
+    'África, América, Antártida, Ásia, Europa e Oceania.'
 )
